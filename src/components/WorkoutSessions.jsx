@@ -6,8 +6,8 @@ const WorkoutSessions = () => {
       <div className="wrapper">
         <h1>TOP WORKOUT SESSION</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur,
-          quisquam. Eaque alias, blanditiis quidem maiores illo unde ipsam!
+         we organised the fitness event on international yoga day on mandi to encouarge
+         about health and its importance in ones life.
         </p>
         <img src="/img5.jpg" alt="workout" />
       </div>
